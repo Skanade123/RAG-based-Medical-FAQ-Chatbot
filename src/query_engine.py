@@ -89,7 +89,7 @@ def sanitize_context(chunks: List[dict]) -> List[dict]:
 # -----------------------------
 
 # ⚠️ Better: store in .env or environment, not hardcoded
-GEMINI_API_KEY = "AIzaSyCWupsl8UEhrebArU4kRO3m96lc6T_6zww"
+GEMINI_API_KEY = "Enter your API Key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 EMB_MODEL = "models/text-embedding-004"    # Embeddings model
