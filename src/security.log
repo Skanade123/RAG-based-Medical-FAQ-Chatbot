@@ -1,9 +1,0 @@
-2025-09-12 21:31:42,194 - ERROR - Unexpected error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
-domain: "googleapis.com"
-metadata {
-  key: "service"
-  value: "generativelanguage.googleapis.com"
-}
-, locale: "en-US"
-message: "API key not valid. Please pass a valid API key."
-]
