@@ -1,0 +1,6 @@
+streamlit
+numpy
+faiss-cpu
+google-generativeai
+pandas
+tqdm
