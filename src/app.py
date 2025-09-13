@@ -132,7 +132,7 @@ def sanitize_context(chunks: List[dict]) -> List[dict]:
 def configure_gemini():
     """Configure Gemini API (cached to avoid re-initialization)"""
     # In production, use st.secrets or environment variables
-    GEMINI_API_KEY = "AIzaSyCWupsl8UEhrebArU4kRO3m96lc6T_6zww"
+    GEMINI_API_KEY = "Enter your API Key"
     genai.configure(api_key=GEMINI_API_KEY)
     return "models/text-embedding-004", "gemini-2.0-flash"
 
@@ -349,4 +349,5 @@ def main():
                     st.error("⚠️ An unexpected error occurred. Please try again.")
 
 if __name__ == "__main__":
+
     main()
