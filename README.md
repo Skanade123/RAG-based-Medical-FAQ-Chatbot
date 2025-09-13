@@ -1,5 +1,7 @@
 # 🏥 Medical FAQ Assistant with RAG
 
+[![Demo Video Thumbnail](https://drive.google.com/uc?export=view&id=1FN04MYz46PnX8Nbb6i8cQLAtzJkQChPf)](https://drive.google.com/file/d/1ZUrUgsORjv_YVDK2oWCgQAev7IxSh6AR/view?usp=sharing)
+
 A secure, AI-powered medical FAQ assistant built with **Streamlit** and **Google's Gemini AI**.  
 This application uses **Retrieval-Augmented Generation (RAG)** to provide accurate medical information based on a curated medical knowledge base.
 
